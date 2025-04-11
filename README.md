@@ -1,1 +1,1 @@
-# szrihad.github.io
+# CS1102 Course Project
